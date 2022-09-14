@@ -1,1 +1,1 @@
-# exima
+# chitinase
